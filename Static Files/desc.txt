@@ -1,3 +1,0 @@
-: only static files
-: security system files not to be uploades - official
-:Shri Mata Vaishno Devi University
