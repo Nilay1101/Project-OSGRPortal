@@ -1,5 +1,5 @@
 <?php
-$to = "nilayjayswalnj@gmail.com";
+$to = "osgrp@smvdu.ac.in";
 $email_subject = "Admin - Complaint : ";
 
 $headers = "From: OSGRP@smvdu.net.in\n";
