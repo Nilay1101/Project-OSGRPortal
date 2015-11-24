@@ -54,10 +54,10 @@
                                 </ul>
                                 </li>
 								<li>
-                                    <a href="NB.php">Notice Board</a>
+                                    <a href="#.php">Notice Board</a>
                                 </li>
                                 <li>
-                                    <a href="FC.php">File a Complaint</a>
+                                    <a href="form.php">File a Complaint</a>
                                 </li>
                         </ul>
                     </nav>

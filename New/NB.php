@@ -57,7 +57,7 @@
                                     <a href="NB.php">Notice Board</a>
                                 </li>
                                 <li>
-                                    <a href="FC.php">File a Complaint</a>
+                                    <a href="form.php">File a Complaint</a>
                                 </li>
                                         
                         </ul>
@@ -85,8 +85,8 @@
                         <div class="featured-post">                           
                             <ul class="post-format">
                                 <li class="date">
-                                    <span class="day">01</span>
-                                    <span class="month">Oct,</span>
+                                    <span class="day">27</span>
+                                    <span class="month">Nov,</span>
 									<span class="year">2015</span>
                                 </li>
                                 
@@ -95,27 +95,8 @@
                           <div class="content-post">
                             <br><br><br>						  
 							<div class="entry-post">                                
-                                <p>Defined format to file a complaint :</p>
-                            </div>
-                            <ul class="meta-post clearfix">
-                                <li class="author">
-                                    <a href="#">Date :</a>
-                                </li>
-								<li class="author">
-                                    <a href="#">40-charactered confirmation code :</a>
-                                </li>
-								<br>
-								<li class="author">
-                                    <a href="#">Entry no.:</a>
-                                </li><br>
-                                <li class="author">
-                                    <a href="#">Department in-concern :</a>
-                                </li><br>
-								<li class="author">
-                                    <a href="#">Complaint :</a>
-                                </li><br>
-                                								
-                            </ul>
+                                <p></p>
+                            </div>                        
                         </div><!-- /.content-post -->
                     </article>
                 </div><!-- /.col-md-9 -->
