@@ -53,10 +53,10 @@
 									<li><a href="#">Miscellaneous Complaints</a></li>
                                 </ul>
                                 </li>
-								<li class="active">
+								<li>
                                     <a href="NB.php">Notice Board</a>
                                 </li>
-                                <li>
+                                <li class="active">
                                     <a href="form.php">File a Complaint</a>
                                 </li>
                                         

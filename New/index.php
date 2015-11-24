@@ -101,9 +101,7 @@
                 </ul>
             </div>
         </div>        
-    </div>
- <marquee> Notice Board : OSGRP in-action , Follow the defined format for filing complaints failure of which may result in rejection of complaints . </marquee> 
- 
+    </div> 
     <section id="sec-testimonial" class="section section-testimonial">
         <div class="container">
             <div class="row">
@@ -158,7 +156,9 @@
 									<br>
                                     <h6># ASSOCIATE PROFESSOR</h6>
                                     <h6>  School of Philosophy and Culture</h6>
-									<h6>  varun.tripathi@smvdu.ac.in</h6>									
+									<h6>  varun.tripathi@smvdu.ac.in</h6>
+<br>
+									<h6>  mail : osgrp@smvdu.ac.in</h6>
                                 </div>
                             </div>
                         </div>                       
