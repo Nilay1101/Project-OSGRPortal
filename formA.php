@@ -53,7 +53,7 @@
                                 </li>
 								
 								<li>
-                                    <a href="note.php">Notifications</a>
+                                    <a href="#">Notifications</a>
                                 </li>
 								
 								<li class="active">
