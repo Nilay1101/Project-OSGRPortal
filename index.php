@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <title>| OSGRP - Home |</title>
 	<link rel="shortcut icon" href="favicon.ico" />
-    <meta name="description" content="Online Students' Grievance Redressal Portal">
-    <meta name="keywords" content=" Shri Mata Vaishno Devi University , OSGRP ">
-    <meta name="author" content="Shri Mata Vaishno Devi University">
+    <meta name="description" content="Online Students' Grievance Redressal Portal  by Shri Mata Vaishno Devi University">
+    <meta name="keywords" content=" Shri Mata Vaishno Devi University , OSGRP, Online Students' Grievance Redressal Portal">
+    <meta name="author" content="Nilay1101, Nilay Jayswal">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
@@ -56,11 +56,6 @@
 									<li><a href="#">Miscellaneous </a></li>
                                 </ul>
                                 </li>
-								
-								<li>
-                                    <a href="#">Notifications</a>
-                                </li>
-								
 								<li>
                                     <a href="formA.php">File a Complaint</a>
                                 </li>
@@ -74,7 +69,7 @@
                 </div>
             </div>
         </header>
-		
+	<marquee>Notice : Students are requested to make sure that they have logged on their respective browsers with official email ids provided by the university to activate the complaint filing form.</marquee>	
 		        <div class="roll-slider" data-auto="true" data-effect="slide" data-direction="horizotal">
             <div class="flexslider">
                 <ul class="slides">
