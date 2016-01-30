@@ -3,7 +3,7 @@
 <head>
    
     <meta charset="utf-8">
-    <title>| OSGRP - Home |</title>
+    <title>| OSGRP 2016|</title>
 	<link rel="shortcut icon" href="favicon.ico" />
     <meta name="description" content="Online Students' Grievance Redressal Portal  by Shri Mata Vaishno Devi University">
     <meta name="keywords" content=" Shri Mata Vaishno Devi University , OSGRP, Online Students' Grievance Redressal Portal">
