@@ -22,6 +22,13 @@
 </head>
 
 <body class="header-sticky page-about"> 
+<?php include_once("analyticstracking.php") ?>
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
     <header id="header" class="header">
         <div class="header-wrap">
             <div class="content-header">
@@ -51,11 +58,6 @@
 									<li><a href="#">Miscellaneous </a></li>
                                 </ul>
                                 </li>
-								
-								<li>
-                                    <a href="#">Notifications</a>
-                                </li>
-								
 								<li>
                                     <a href="formA.php">File a Complaint</a>
                                 </li>
