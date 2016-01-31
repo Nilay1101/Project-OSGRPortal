@@ -5,12 +5,13 @@
     <meta charset="utf-8">
     <title>| OSGRP - Home |</title>
 	<link rel="shortcut icon" href="favicon.ico" />
-    <meta name="description" content="Online Students' Grievance Redressal Portal">
-    <meta name="keywords" content=" Shri Mata Vaishno Devi University , OSGRP ">
-    <meta name="author" content="Shri Mata Vaishno Devi University">
+    <meta name="description" content="Online Students' Grievance Redressal Portal  by Shri Mata Vaishno Devi University">
+    <meta name="keywords" content=" Shri Mata Vaishno Devi University , OSGRP, Online Students' Grievance Redressal Portal">
+    <meta name="author" content="Nilay1101, Nilay Jayswal">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.css" >
+	<link href="stylesheets/social-sharing.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
     <link rel="stylesheet" type="text/css" href="stylesheets/animate.css">
     <link href='http://fonts.googleapis.com/css?family=Lato:400,300,700,300italic,900' rel='stylesheet' type='text/css'>
@@ -56,11 +57,6 @@
 									<li><a href="#">Miscellaneous </a></li>
                                 </ul>
                                 </li>
-								
-								<li>
-                                    <a href="#">Notifications</a>
-                                </li>
-								
 								<li>
                                     <a href="formA.php">File a Complaint</a>
                                 </li>
@@ -74,7 +70,6 @@
                 </div>
             </div>
         </header>
-		
 		        <div class="roll-slider" data-auto="true" data-effect="slide" data-direction="horizotal">
             <div class="flexslider">
                 <ul class="slides">
@@ -145,14 +140,12 @@
                             <div class="toggle-content">
                                 <div class="info">
                                     <h3>Dr. Varun Kumar Tripathi</h3>
-                                    <h6># NODAL OFFICER</h6>
-                                    <h6>  OSGRP</h6>
+                                    <h6>Nodal Officer, OSGRP</h6>
 									<br>
-                                    <h6># ASSOCIATE PROFESSOR</h6>
-                                    <h6>  School of Philosophy and Culture</h6>
-									<h6>  varun.tripathi@smvdu.ac.in</h6>
+									<h3>Nilay Jayswal</h3>
+                                    <h6>Developer, OSGRP</h6>
 <br>
-									<h6>  mail : osgrp@smvdu.ac.in</h6>
+									<h6>For suggestions mail us :<a href="mailto:osgrp@smvdu.ac.in"> osgrp@smvdu.ac.in </a></h6>
                                 </div>
                             </div>
                         </div>                       
@@ -162,10 +155,13 @@
         </div>
     </section>
 	
-	<!-- Go Top -->
-    <a class="go-top">
-        <i class="fa fa-angle-up"></i>
-    </a>
+<!-- Twitter -->
+<a href="http://twitter.com/home?status=http://osgrp.smvdu.ac.in/" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i> Twitter</a>
+<!-- Facebook -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo(($_SERVER['HTTPS'] ? 'https://' : 'http://').$_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"]); ?>" title="Share on Facebook" target="_blank" class="btn btn-facebook"><i class="fa fa-facebook"></i> Facebook</a>
+<!-- Google+ -->
+<a href="https://plus.google.com/share?url=http://osgrp.smvdu.ac.in/" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i> Google+</a>
+
 
     <!-- Javascript -->
     <script type="text/javascript" src="javascript/jquery.min.js"></script>

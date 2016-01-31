@@ -752,7 +752,7 @@ header.is-sticky {
 .roll-slider {
 	position: relative;
 	overflow: hidden;
-	height:455px;
+	height:600px;
 }
 
 .flex-direction-nav li a {

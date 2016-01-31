@@ -51,11 +51,6 @@
 									<li><a href="#">Miscellaneous </a></li>
                                 </ul>
                                 </li>
-								
-								<li>
-                                    <a href="#">Notifications</a>
-                                </li>
-								
 								<li>
                                     <a href="formA.php">File a Complaint</a>
                                 </li>
