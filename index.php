@@ -70,6 +70,10 @@
                 </div>
             </div>
         </header>
+<<<<<<< HEAD
+=======
+	<marquee>Notice : Students are requested to make sure that they have logged on their respective browsers with official email ids provided by the university to activate the complaint filing form.</marquee>	
+>>>>>>> origin/master
 		        <div class="roll-slider" data-auto="true" data-effect="slide" data-direction="horizotal">
             <div class="flexslider">
                 <ul class="slides">
