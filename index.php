@@ -21,13 +21,6 @@
 </head>
 
 <body class="header-sticky home home-3">
-<?php include_once("analyticstracking.php") ?>
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-        
     <div class="loader">
       <span class="loader1 block-loader"></span>
       <span class="loader2 block-loader"></span>
@@ -77,13 +70,6 @@ function googleTranslateElementInit() {
                 </div>
             </div>
         </header>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-	<marquee>Notice : Students are requested to make sure that they have logged on their respective browsers with official email ids provided by the university to activate the complaint filing form.</marquee>	
->>>>>>> origin/master
->>>>>>> origin/master
 		        <div class="roll-slider" data-auto="true" data-effect="slide" data-direction="horizotal">
             <div class="flexslider">
                 <ul class="slides">

@@ -22,13 +22,7 @@
 </head>
 
 <body class="header-sticky"> 
-<?php include_once("analyticstracking.php") ?>
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-        
+
  <header id="header" class="header">
         <div class="header-wrap">
             <div class="content-header">
@@ -76,7 +70,7 @@ function googleTranslateElementInit() {
             </div>
         </div>
     </header>
-
+<marquee>If you are unable to view this form make sure that you have logged on with official email ids' provided by the SMVD University in your respective browser</marquee>
 <iframe src="https://docs.google.com/a/smvdu.ac.in/forms/d/1DhyL9-nExBxTMbB4KDDl9fWn6d90DoVtQ_3AFa-_R_o/viewform?embedded=true" width="1350" height="580" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 </body>
