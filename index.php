@@ -39,6 +39,7 @@
                     <div class="wrap-nav">
                         <div class="btn-menu"></div>
                         <nav id="mainnav" class="mainnav">
+						
                             <ul class="menu"> 
                                 
 								<li>
@@ -47,7 +48,8 @@
 								
 								<li>
                                 <a href="#">Departments</a>
-                                <ul class="submenu">                             
+                                <ul class="submenu"> 
+                                     								
                                     <li><a href="#">Administration & Finance</a></li>
                                     <li><a href="#">Academic Departments</a></li>
 									<li><a href="#">Network & Internet</a></li>
@@ -76,14 +78,14 @@
                     <li>
                         <img src="images/slide/1.jpg" alt="image" class="roll-zoBackground">
                         <div class="content-slider">
-						<h3 class="st-color FromTop">Online Students' Grievance Redressal Portal</h3>
+						<h3 class="st-color FromTop">SMVDU &nbsp; Online Students' Grievance Redressal Portal</h3>
 
                         </div>
                     </li>
                     <li>
                         <img src="images/slide/2.jpg" alt="image" class="roll-ziBackground">
                         <div class="content-slider">
-                         <h3 class="st-color FromTop">Online Students' Grievance Redressal Portal</h3>   
+                         <h3 class="st-color FromTop">SMVDU  &nbsp; Online Students' Grievance Redressal Portal</h3>   
 
                         </div>
                     </li>
@@ -141,11 +143,8 @@
                                 <div class="info">
                                     <h3>Dr. Varun Kumar Tripathi</h3>
                                     <h6>Nodal Officer, OSGRP</h6>
-									<br>
-									<h3>Nilay Jayswal</h3>
-                                    <h6>Developer, OSGRP</h6>
-<br>
-									<h6>For suggestions mail us :<a href="mailto:osgrp@smvdu.ac.in"> osgrp@smvdu.ac.in </a></h6>
+									<h6><a href="mailto:osgrp@smvdu.ac.in"> osgrp@smvdu.ac.in </a></h6>
+									<br><hr><h6>Developed by<a href="http://nilay1101.github.io/Diana/index.html"> Diana</a><br>
                                 </div>
                             </div>
                         </div>                       
@@ -154,9 +153,7 @@
             </div>
         </div>
     </section>
-	
-<!-- Twitter -->
-<a href="http://twitter.com/home?status=http://osgrp.smvdu.ac.in/" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i> Twitter</a>
+
 <!-- Facebook -->
 <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo(($_SERVER['HTTPS'] ? 'https://' : 'http://').$_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"]); ?>" title="Share on Facebook" target="_blank" class="btn btn-facebook"><i class="fa fa-facebook"></i> Facebook</a>
 <!-- Google+ -->

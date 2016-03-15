@@ -1,2 +1,2 @@
-# OSGRP
-official site
+# SMVDU Online Students' Grievance Redressl Portal
+: official website
